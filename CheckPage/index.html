@@ -58,6 +58,25 @@
 			
     	</div>
   </main>
+<script>
+	function throwErrorExample() {
+  try {
+    // Attempting to access an undefined variable
+    console.log(undefinedVariable);
+  } catch (error) {
+    // Catching the error and throwing a custom error message
+    throw new Error('An error occurred: ' + error.message);
+  }
+}
 
+try {
+  // Calling the function that throws an error
+  throwErrorExample();
+} catch (error) {
+  // Catching the custom error message thrown in the function
+  console.error('Caught an error:', error.message);
+}
+
+</script>
 </body>
 </html>
