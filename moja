@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>moja (legacy)</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<!-- <link rel="stylesheet" href="css/themes/indigo-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/grey-white.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
+	<link rel="stylesheet" href="css/themes/white-grey.css">
+	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
+	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
+</head>
+<body class="secondary">
+	<main>
+		<div>
+    
+<p>
+We have sunsetted our moja.com legacy CMS product, but continue to provide our website hosting and support product for those US based (USD) users that still need service. Please reach us at help@boone.dev for support.
+</p>
+
+<p>Refund/dispute/cancellation policy:<br>
+Please reach out to help@boone.dev and we'll be happy to issue a refund or cancel service for you.
+</p>
+
+<p>
+Payment card policy:<br>
+Access to card details is restricted to authorized personnel through role-based access control and multi-factor authentication.
+We ensure the secure transmission of payment card details through stringent security measures, including AES-256 encryption for data at rest, TLS for data in transit, and tokenization to replace sensitive card information with unique identifiers.
+</p>
+<p>
+Consumer data privacy policy:<br>
+We collect, use, and store personal information only as necessary to provide and improve our services. All data is encrypted in transit and at rest using industry-standard methods to protect against unauthorized access. Access to consumer data is restricted to authorized personnel who require it for legitimate business purposes, enforced through role-based access control and multi-factor authentication. We do not share personal information with third parties except as required by law or with trusted partners who comply with strict privacy standards. Consumers have the right to access, correct, or delete their personal information, and we are committed to responding promptly to such requests.
+</p>
+
+
+</div>
+	</main>
+
+</body>
+</html>
